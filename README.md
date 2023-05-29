@@ -28,4 +28,4 @@
 
 >> Остальную информацию вы можете найти в комментариях к коду
 
-**[Мой LinkedIn:](https://www.linkedin.com/in/viktor-komissarov-66269b252/)**
+**[Мой LinkedIn: https://www.linkedin.com/in/viktor-komissarov-66269b252/](https://www.linkedin.com/in/viktor-komissarov-66269b252/)**
